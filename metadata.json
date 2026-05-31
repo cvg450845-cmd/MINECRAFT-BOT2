@@ -1,0 +1,6 @@
+{
+  "name": "MineBot SaaS Platform",
+  "description": "An advanced Minecraft Bot SaaS dashboard with customizable bot configs, multi-plan payment tiers, simulated Discord control panel, and premium Pro AI assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
